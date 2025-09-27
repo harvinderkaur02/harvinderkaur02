@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Harvinder Kaur  
 
 🎓 **B.Tech Graduate in Computer Science (AI & ML)** from Aravali College of Engineering and Management
+
 💡 Passionate about **AI, Full-Stack Development & Cloud Computing**  
+
 🚀 Always curious to learn, build and collaborate on impactful projects  
 
 ---
